@@ -9,11 +9,10 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/tariq992"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/tariq992"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://my-portfolio-henna-beta-68.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:tmtariq110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="tel:+923325293542"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
+<a href="https://wa.me/923325293542"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </div>
 
 <br/>
@@ -35,14 +34,14 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 
 <table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 **Languages & Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,html,css" />
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 **Backend & Databases**
 <br/>
@@ -51,14 +50,14 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 **DevOps & Cloud**
 <br/>
 <img src="https://skillicons.dev/icons?i=linux,nginx,git,githubactions,digitalocean,postman" />
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 **AI & Automation**
 <br/>
@@ -121,7 +120,6 @@ Healthcare workforce management & nurse rostering SaaS — scheduling, attendanc
 Industrial machinery platform with AI chatbot/agents for product discovery, freight & quote workflows, and Meta Pixel/SMS integrations.
 
 `React` `Node` `MongoDB` `OpenAI` `OpenClaw` `Maps API`
-🔗 [symforklifts.com](https://www.symforklifts.com/)
 
 </td>
 </tr>
