@@ -29,52 +29,32 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 - 💬 Ask me about MERN, Laravel, AI Agents, RAG, or production DevOps
 
 <br/>
-## 🛠️ Tech Stack
 
-### 💻 Languages & Frontend
+---
 
-<p>
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Frontend**
+<br/>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,html,css" />
-</p>
 
----
-
-### ⚙️ Backend & Databases
-
-<p>
+**Backend & Databases**
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,mysql" />
-</p>
 
----
+**AI & Automation**
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/RAG%20%7C%20Vector%20Search-1abc9c?style=flat-square"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
-### ☁️ DevOps & Cloud
-
-<p>
+**DevOps & Cloud**
+<br/>
 <img src="https://skillicons.dev/icons?i=linux,nginx,git,githubactions,digitalocean,postman" />
-</p>
+
+</div>
 
 ---
-
-### 🤖 AI & Automation
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20%7C%20Vector%20Search-1abc9c?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
----
-
-### 🏗️ Backend Architecture
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade%20Templates-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-25D366?style=flat-square)
-![MVC](https://img.shields.io/badge/MVC%20Architecture-4FC3F7?style=flat-square)
 
 ## 💼 Professional Experience
 
