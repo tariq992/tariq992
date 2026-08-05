@@ -29,38 +29,33 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 - 💬 Ask me about MERN, Laravel, AI Agents, RAG, or production DevOps
 
 <br/>
-
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td valign="top" width="100%">
+### 💻 Languages & Frontend
 
-**Languages & Frontend**
-<br/>
+<p>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,html,css" />
+</p>
 
-</td>
-<td valign="top" width="100%">
+---
 
-**Backend & Databases**
-<br/>
+### ⚙️ Backend & Databases
+
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,mysql" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td valign="top" width="100%">
+---
 
-**DevOps & Cloud**
-<br/>
+### ☁️ DevOps & Cloud
+
+<p>
 <img src="https://skillicons.dev/icons?i=linux,nginx,git,githubactions,digitalocean,postman" />
+</p>
 
-</td>
-<td valign="top" width="100%">
+---
 
-**AI & Automation**
-<br/>
+### 🤖 AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -68,11 +63,9 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 ![RAG](https://img.shields.io/badge/RAG%20%7C%20Vector%20Search-1abc9c?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-</td>
-</tr>
-</table>
+---
 
-**Backend Frameworks & Architecture**
+### 🏗️ Backend Architecture
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -82,8 +75,6 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 ![JWT](https://img.shields.io/badge/JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-25D366?style=flat-square)
 ![MVC](https://img.shields.io/badge/MVC%20Architecture-4FC3F7?style=flat-square)
-
-<br/>
 
 ## 💼 Professional Experience
 
