@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/tariq992"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://my-portfolio-henna-beta-68.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://portfolio-next-ochre-three.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="mailto:tmtariq110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="tel:+923325293542"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://wa.me/923325293542"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -126,7 +126,7 @@ Production business & e-commerce websites — full-stack development, deployment
 ### 🍽️ Grilli Restaurant · 🎨 Portfolio
 Responsive restaurant site & personal developer portfolio.
 
-🔗 [Grilli](https://grilli-by-tariqmehmood.netlify.app/) · [Portfolio](https://my-portfolio-henna-beta-68.vercel.app/)
+🔗 [Grilli](https://grilli-by-tariqmehmood.netlify.app/) · [Portfolio](https://portfolio-next-ochre-three.vercel.app/)
 
 </td>
 </tr>
@@ -195,7 +195,7 @@ Coursework: Programming Fundamentals, Data Structures & Algorithms, OOP, Databas
 📞 **+92 332 5293542** &nbsp;|&nbsp; 📧 **tmtariq110@gmail.com** &nbsp;|&nbsp; 📍 **Pakistan**
 
 <a href="https://www.linkedin.com/in/tariq992"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://my-portfolio-henna-beta-68.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://portfolio-next-ochre-three.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
