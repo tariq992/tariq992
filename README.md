@@ -17,7 +17,7 @@
 
 <br/>
 
-## 👋 About Me
+##  About Me
 
 I'm a **results-driven Full Stack Developer** with 2+ years of experience building, deploying, and maintaining modern web applications and production systems. I specialize in the **MERN stack** (with **Laravel/PHP** on the backend side too), and have hands-on production experience across **SaaS, healthcare workforce management, e-commerce, logistics/freight platforms**, and **AI-powered chatbots & automation**.
 
