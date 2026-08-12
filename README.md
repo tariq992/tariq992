@@ -175,7 +175,6 @@ Responsive restaurant site & personal developer portfolio.
     height="180"
     alt="GitHub Streak"
   />
-
 </div>
 
 <br/>
