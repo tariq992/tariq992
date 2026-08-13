@@ -13,11 +13,12 @@
 <a href="mailto:tmtariq110@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="tel:+923325293542"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="https://wa.me/923325293542"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
 </div>
 
 <br/>
 
-##  About Me
+## About Me
 
 I'm a **results-driven Full Stack Developer** with 2+ years of experience building, deploying, and maintaining modern web applications and production systems. I specialize in the **MERN stack** (with **Laravel/PHP** on the backend side too), and have hands-on production experience across **SaaS, healthcare workforce management, e-commerce, logistics/freight platforms**, and **AI-powered chatbots & automation**.
 
@@ -58,16 +59,18 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 
 ## 💼 Professional Experience
 
-**MERN Stack Developer / Full Stack Developer** — *RatedSol Tech, Dera Ghazi Khan, Pakistan*
+**MERN Stack Developer / Full Stack Developer** — _RatedSol Tech, Dera Ghazi Khan, Pakistan_
 `30 June 2025 – Present`
+
 - Building full-stack MERN applications (React.js, Node.js, Express.js, MongoDB) with REST APIs
 - Designing authentication, authorization, database architecture & third-party integrations
 - Integrating OpenAI, Claude & Gemini for AI chatbots, agents, document verification & lead-gen
 - Managing production environments with Linux, Nginx, PM2, DigitalOcean & CI/CD via GitHub Actions
 - Developing freight management systems: jobs, quotes, notifications, Maps/SMS/Email integrations
 
-**Full Stack Developer** — *Freelance & Direct Clients (Remote)*
+**Full Stack Developer** — _Freelance & Direct Clients (Remote)_
 `July 2024 – Present`
+
 - Delivering custom full-stack applications for international clients across e-commerce, healthcare, and industrial sectors, using both **MERN** and **Laravel/PHP** stacks
 - Handling deployment, server configuration, debugging, and long-term maintenance
 
@@ -80,6 +83,7 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 <td width="50%" valign="top">
 
 ### 🏥 RatedCare Connect (RCC)
+
 Healthcare workforce management & nurse rostering SaaS — scheduling, attendance, payroll, analytics, GPS check-in, and **AI-powered document verification with Claude**.
 
 `React` `Node` `Express` `MongoDB` `JWT` `Claude AI`
@@ -88,6 +92,7 @@ Healthcare workforce management & nurse rostering SaaS — scheduling, attendanc
 <td width="50%" valign="top">
 
 ### 🏗️ SYM Forklifts
+
 Industrial machinery platform with AI chatbot/agents for product discovery, freight & quote workflows, and Meta Pixel/SMS integrations.
 
 `React` `Node` `MongoDB` `OpenAI` `OpenClaw` `Maps API`
@@ -98,6 +103,7 @@ Industrial machinery platform with AI chatbot/agents for product discovery, frei
 <td width="50%" valign="top">
 
 ### 🚚 Freight Management System
+
 End-to-end logistics workflow: job creation, company approval, quote submission/acceptance, auto-rejection & email reminders.
 
 `React` `Node` `Express` `MongoDB` `Nodemailer`
@@ -106,6 +112,7 @@ End-to-end logistics workflow: job creation, company approval, quote submission/
 <td width="50%" valign="top">
 
 ### 🤖 AI-Powered Chatbot & Agent
+
 Conversational AI for customer support, product discovery & lead qualification with RAG-based knowledge bases.
 
 `OpenAI` `RAG` `Vector Embeddings` `Node.js`
@@ -116,6 +123,7 @@ Conversational AI for customer support, product discovery & lead qualification w
 <td width="50%" valign="top">
 
 ### 🛍️ The Palm • Campus Shoes
+
 Production business & e-commerce websites — full-stack development, deployment & maintenance.
 
 🔗 [thepalm.com](https://www.thepalm.com/) · [campusshoes.com](https://www.campusshoes.com/)
@@ -124,6 +132,7 @@ Production business & e-commerce websites — full-stack development, deployment
 <td width="50%" valign="top">
 
 ### 🍽️ Grilli Restaurant · 🎨 Portfolio
+
 Responsive restaurant site & personal developer portfolio.
 
 🔗 [Grilli](https://grilli-by-tariqmehmood.netlify.app/) · [Portfolio](https://portfolio-next-ochre-three.vercel.app/)
@@ -152,13 +161,13 @@ Responsive restaurant site & personal developer portfolio.
 
 <div align="center">
 
-  <img
+<img
     src="https://github-stats-extended.vercel.app/api?username=tariq992&show_icons=true&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Stats"
   />
 
-  <img
+<img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=tariq992&layout=compact&theme=tokyonight&hide_border=true"
     height="180"
     alt="Top Languages"
@@ -170,11 +179,12 @@ Responsive restaurant site & personal developer portfolio.
 
 <div align="center">
 
-  <img
+<img
     src="https://streak-stats.demolab.com/?user=tariq992&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
   />
+
 </div>
 
 <br/>
@@ -198,6 +208,6 @@ Coursework: Programming Fundamentals, Data Structures & Algorithms, OOP, Databas
 
 <br/><br/>
 
-*"Turning ideas into scalable, AI-powered products — one commit at a time."*
+_"Turning ideas into scalable, AI-powered products — one commit at a time."_
 
 </div>
