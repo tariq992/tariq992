@@ -22,12 +22,12 @@
 
 I'm a **results-driven Full Stack Developer** with 2+ years of experience building, deploying, and maintaining modern web applications and production systems. I specialize in the **MERN stack** (with **Laravel/PHP** on the backend side too), and have hands-on production experience across **SaaS, healthcare workforce management, e-commerce, logistics/freight platforms**, and **AI-powered chatbots & automation**.
 
-- 🔭 Currently building healthcare & logistics SaaS platforms at **RatedSol Tech**
-- 🤖 Integrating **OpenAI, Anthropic Claude & Google Gemini** into real production products
-- 🌐 Freelancing on full-stack web apps for international clients since **July 2024**
-- 🎓 BS Information Technology @ **Ghazi University**, Dera Ghazi Khan, Pakistan
-- 📍 Based in Pakistan &nbsp;|&nbsp; Open to **Remote, Hybrid & On-site** opportunities
-- 💬 Ask me about MERN, Laravel, AI Agents, RAG, or production DevOps
+- Currently building healthcare & logistics SaaS platforms at **RatedSol Tech**
+- Integrating **OpenAI, Anthropic Claude & Google Gemini** into real production products
+- Freelancing on full-stack web apps for international clients since **July 2024**
+- BS Information Technology @ **Ghazi University**, Dera Ghazi Khan, Pakistan
+- Based in Pakistan &nbsp;|&nbsp; Open to **Remote, Hybrid & On-site** opportunities
+- Ask me about MERN, Laravel, AI Agents, RAG, or production DevOps
 
 <br/>
 
@@ -76,13 +76,13 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 
 <br/>
 
-## 🚀 Key Projects
+## Key Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 RatedCare Connect (RCC)
+### RatedCare Connect (RCC)
 
 Healthcare workforce management & nurse rostering SaaS — scheduling, attendance, payroll, analytics, GPS check-in, and **AI-powered document verification with Claude**.
 
@@ -91,7 +91,7 @@ Healthcare workforce management & nurse rostering SaaS — scheduling, attendanc
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ SYM Forklifts
+### SYM Forklifts
 
 Industrial machinery platform with AI chatbot/agents for product discovery, freight & quote workflows, and Meta Pixel/SMS integrations.
 
@@ -102,7 +102,7 @@ Industrial machinery platform with AI chatbot/agents for product discovery, frei
 <tr>
 <td width="50%" valign="top">
 
-### 🚚 Freight Management System
+### Freight Management System
 
 End-to-end logistics workflow: job creation, company approval, quote submission/acceptance, auto-rejection & email reminders.
 
@@ -111,7 +111,7 @@ End-to-end logistics workflow: job creation, company approval, quote submission/
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI-Powered Chatbot & Agent
+### AI-Powered Chatbot & Agent
 
 Conversational AI for customer support, product discovery & lead qualification with RAG-based knowledge bases.
 
@@ -122,7 +122,7 @@ Conversational AI for customer support, product discovery & lead qualification w
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ The Palm • Campus Shoes
+### The Palm • Campus Shoes
 
 Production business & e-commerce websites — full-stack development, deployment & maintenance.
 
@@ -131,7 +131,7 @@ Production business & e-commerce websites — full-stack development, deployment
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ Grilli Restaurant · 🎨 Portfolio
+### Grilli Restaurant · Portfolio
 
 Responsive restaurant site & personal developer portfolio.
 
@@ -154,10 +154,10 @@ Responsive restaurant site & personal developer portfolio.
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">GitHub Statistics</h2>
 
 <div align="center">
 
@@ -197,7 +197,7 @@ Coursework: Programming Fundamentals, Data Structures & Algorithms, OOP, Databas
 
 <br/>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
