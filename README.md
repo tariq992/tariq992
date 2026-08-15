@@ -1,5 +1,4 @@
 <div align="center">
-
 # Tariq Mehmood
 
 ### Full Stack MERN Developer &nbsp;|&nbsp; AI Integration & DevOps
