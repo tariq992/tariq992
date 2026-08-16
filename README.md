@@ -176,8 +176,8 @@ Responsive restaurant site & personal developer portfolio.
 <br />
 
 <div align="center">
-
 <img
+    src="https://streak-stats.demolab.com/?user=tariq992&theme=tokyonight&hide_border=true"
     src="https://streak-stats.demolab.com/?user=tariq992&theme=tokyonight&hide_border=true"
     height="180"
     alt="GitHub Streak"
