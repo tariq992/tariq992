@@ -151,7 +151,6 @@ Responsive restaurant site & personal developer portfolio.
 - Monitored, troubleshot, and resolved production, deployment & server issues
 
 <br/>
-
 ## GitHub Stats
 
 <div align="center">
