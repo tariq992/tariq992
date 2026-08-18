@@ -1,6 +1,6 @@
 <div align="center">
-### Tariq Mehmood
 
+### Tariq Mehmood
 ### Full Stack MERN Developer &nbsp;|&nbsp; AI Integration & DevOps
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+%26+Laravel+applications;Integrating+AI+Agents%2C+RAG+%26+LLM-powered+products;Deploying+%26+maintaining+production+systems;Turning+ideas+into+full-stack+products" alt="Typing SVG" />
