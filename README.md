@@ -131,7 +131,9 @@ Live production e-commerce and business websites — full-stack development, dep
 ### Grilli Restaurant · Personal Portfolio
 Responsive restaurant website and personal developer portfolio, both fully deployed.
 
-🔗 [Grilli](https://grilli-by-tariqmehmood.netlify.app/) · [Portfolio](https://tariqmehmood.vercel.app/)
+Responsive restaurant site & personal developer portfolio.
+
+🔗 [Grilli](https://grilli-by-tariqmehmood.netlify.app/) · [Portfolio](https://portfolio-next-ochre-three.vercel.app/)
 
 </td>
 </tr>
@@ -196,8 +198,7 @@ Whether you need a full product built from scratch, an AI feature integrated int
 📞 **+92 327 6952027** &nbsp;|&nbsp; 📧 **tmtariq110@gmail.com** &nbsp;|&nbsp; 📍 **Pakistan (Remote-friendly)**
 
 <a href="https://www.linkedin.com/in/tariq992"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://tariqmehmood.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:tmtariq110@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20Project-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://portfolio-next-ochre-three.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
 <br/><br/>
 
