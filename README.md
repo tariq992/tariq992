@@ -34,7 +34,6 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 ### 🛠️ Tech Stack
 
 <div align="center">
-
 **Languages & Frontend**
 <br/>
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,bootstrap,html,css" />
