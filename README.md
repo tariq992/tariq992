@@ -15,13 +15,13 @@
 </div>
 
 <br/>
-## About Me
-I'm a **results-driven Full Stack Developer** with 2+ years of experience building, deploying, and maintaining modern web applications and production systems. I specialize in the **MERN stack** (with **Laravel/PHP** on the backend side too), and have hands-on production experience across **SaaS, healthcare workforce management, e-commerce, logistics/freight platforms**, and **AI-powered chatbots & automation**.
+About Me
+I'm a results-driven Full Stack Developer with 2+ years of experience building, deploying, and maintaining modern web applications and production systems. I specialize in the MERN stack (with Laravel/PHP on the backend side too), and have hands-on production experience across SaaS, healthcare workforce management, e-commerce, logistics/freight platforms, and AI-powered chatbots & automation.
 
 - Currently building healthcare & logistics SaaS platforms at **RatedSol Tech**
 - Integrating **OpenAI, Anthropic Claude & Google Gemini** into real production products
 - Freelancing on full-stack web apps for international clients since **July 2024**
-- BS Information Technology @ **Ghazi University**, Dera Ghazi Khan, Pakistan
+- BS Information Technology from **Ghazi University**, Dera Ghazi Khan, Pakistan
 - Based in Pakistan &nbsp;|&nbsp; Open to **Remote, Hybrid & On-site** opportunities
 <!-- - Ask me about MERN, Laravel, AI Agents, RAG, or production DevOps -->
 
@@ -29,7 +29,7 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -54,7 +54,7 @@ I'm a **results-driven Full Stack Developer** with 2+ years of experience buildi
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 **MERN Stack Developer / Full Stack Developer** — _RatedSol Tech, Dera Ghazi Khan, Pakistan_
 `30 June 2025 – Present`
@@ -150,7 +150,7 @@ Responsive restaurant site & personal developer portfolio.
 - Monitored, troubleshot, and resolved production, deployment & server issues
 
 <br/>
-## GitHub Stats
+
 
 <div align="center">
 <h2 align="center">GitHub Statistics</h2>
