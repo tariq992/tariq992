@@ -130,7 +130,7 @@ Production business & e-commerce websites — full-stack development, deployment
 
 ### Grilli Restaurant · Portfolio
 
-Responsive restaurant site & personal developer portfolio.
+Responsive restaurant site & personal portfolio, deploying and maintaining.
 
 🔗 [Grilli](https://grilli-by-tariqmehmood.netlify.app/) · [Portfolio](https://tariqmehmood.vercel.app/)
 
@@ -139,7 +139,6 @@ Responsive restaurant site & personal developer portfolio.
 </table>
 
 <br/>
-
 ## ⚙️ DevOps & Production Experience
 
 - Deployed and maintained applications on **DigitalOcean** and **Ubuntu** servers
@@ -148,9 +147,7 @@ Responsive restaurant site & personal developer portfolio.
 - Managed GitHub Actions runners and deployment processes
 - Worked with **MongoDB Atlas** and cloud databases
 - Monitored, troubleshot, and resolved production, deployment & server issues
-
 <br/>
-
 
 <div align="center">
 <h2 align="center">GitHub Statistics</h2>
