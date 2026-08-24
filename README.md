@@ -23,8 +23,8 @@ I'm a results-driven Full Stack Developer with 2+ years of experience building, 
 - Freelancing on full-stack web apps for international clients since **July 2024**
 - BS Information Technology from **Ghazi University**, Dera Ghazi Khan, Pakistan
 - Based in Pakistan &nbsp;|&nbsp; Open to **Remote, Hybrid & On-site** opportunities
-🔗 [View CV](https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf/) 
 <br/>
+🔗 [View CV](https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf/) 
 
 ---
 
