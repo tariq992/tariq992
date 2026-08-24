@@ -24,6 +24,7 @@ I'm a results-driven Full Stack Developer with 2+ years of experience building, 
 - BS Information Technology from **Ghazi University**, Dera Ghazi Khan, Pakistan
 - Based in Pakistan &nbsp;|&nbsp; Open to **Remote, Hybrid & On-site** opportunities
 <br/>
+
 🔗 [View CV](https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf/) 
 
 ---
