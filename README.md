@@ -191,7 +191,6 @@ Coursework: Programming Fundamentals, Data Structures & Algorithms, OOP, Databas
 <br/>
 
 ## Let's Connect
-
 <div align="center">
 
 📞 **+92 3276952027** &nbsp;|&nbsp; 📧 **tmtariq110@gmail.com** &nbsp;|&nbsp; 📍 **Pakistan**
