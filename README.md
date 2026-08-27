@@ -26,7 +26,6 @@ I'm a results-driven Full Stack Developer with 2+ years of experience building, 
 <br/>
 
 🔗 [View Resume](https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf/) 
-
 ---
 
 ### Tech Stack
