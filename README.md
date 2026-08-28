@@ -13,7 +13,6 @@
 <a href="https://wa.me/923276952027"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
-
 <br/>
 About Me
 I'm a results-driven Full Stack Developer with 2+ years of experience building, deploying, and maintaining modern web applications and production systems. I specialize in the MERN stack (with Laravel/PHP on the backend side too), and have hands-on production experience across SaaS, healthcare workforce management, e-commerce, logistics/freight platforms, and AI-powered chatbots & automation.
