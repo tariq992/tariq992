@@ -54,7 +54,6 @@ I'm a results-driven Full Stack Developer with 2+ years of experience building, 
 
 **MERN Stack Developer / Full Stack Developer** — _RatedSol Tech, Dera Ghazi Khan, Pakistan_
 `30 June 2025 – Present`
-
 - Building full-stack MERN applications (React.js, Node.js, Express.js, MongoDB) with REST APIs
 - Designing authentication, authorization, database architecture & third-party integrations
 - Integrating OpenAI, Claude & Gemini for AI chatbots, agents, document verification & lead-gen
