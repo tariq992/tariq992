@@ -2,7 +2,7 @@
 
 ### Tariq Mehmood
 ### Full Stack MERN Developer &nbsp;|&nbsp; AI Integration & DevOps
-<div align="center"><a href="https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf" target="_blank">View Resume</a>
+<div align="center"><a href="https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf" target="_blank">🔗 View Resume</a>
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+%26+Laravel+applications;Integrating+AI+Agents%2C+RAG+%26+LLM-powered+products;Deploying+%26+maintaining+production+systems;Turning+ideas+into+full-stack+products" alt="Typing SVG" />
@@ -25,7 +25,7 @@ I'm a results-driven Full Stack Developer with 2+ years of experience building, 
 - BS Information Technology from **Ghazi University**, Dera Ghazi Khan, Pakistan
 - Based in Pakistan &nbsp;|&nbsp; Open to **Remote, Hybrid & On-site** opportunities
 <br/>
-<div align="center"><a href="https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf" target="_blank">View Resume</a>
+<div align="center"><a href="https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf" target="_blank">🔗 View Resume</a>
 </div>
 
 
@@ -134,7 +134,7 @@ Responsive restaurant site & personal portfolio, deploying and maintaining.
 </td>
 </tr>
 </table>
-<div align="center"><a href="https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf" target="_blank">View Resume</a>
+<div align="center"><a href="https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf" target="_blank">🔗 View Resume</a>
 </div>
 
 <br/>
