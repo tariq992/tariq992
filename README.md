@@ -1,5 +1,4 @@
 <div align="center">
-
 ### Tariq Mehmood
 ### Full Stack MERN Developer &nbsp;|&nbsp; AI Integration & DevOps
 <div align="center"><a href="https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf" target="_blank">🔗 View Resume</a>
