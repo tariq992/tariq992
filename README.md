@@ -25,7 +25,7 @@ I'm a results-driven Full Stack Developer with 2+ years of experience building, 
 - BS Information Technology from **Ghazi University**, Dera Ghazi Khan, Pakistan
 - Based in Pakistan &nbsp;|&nbsp; Open to **Remote, Hybrid & On-site** opportunities
 <br/>
-<div align="center"><a href="https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf" target="_blank">🔗 View Resume</a>
+<div align="center"><a href="https://tariqmehmood.vercel.app/downloads/Tariq-Mehmood-CV.pdf" target="_blank">🔗 View Resume</a>
 </div>
 
 
@@ -134,7 +134,7 @@ Responsive restaurant site & personal portfolio, deploying and maintaining.
 </td>
 </tr>
 </table>
-<div align="center"><a href="https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf" target="_blank">🔗 View Resume</a>
+<div align="center"><a href="https://tariqmehmood.vercel.app/downloads/Tariq-Mehmood-CV.pdf" target="_blank">🔗 View Resume</a>
 </div>
 
 <br/>
@@ -197,7 +197,7 @@ Coursework: Programming Fundamentals, Data Structures & Algorithms, OOP, Databas
 <a href="https://www.linkedin.com/in/tariq992"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://tariqmehmood.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 
-🔗 [View Resume](https://tariqmehmood.vercel.app/assets/tariq-resume-JMEywKgy.pdf/) 
+🔗 [View Resume](https://tariqmehmood.vercel.app/downloads/Tariq-Mehmood-CV.pdf/) 
 <br/><br/>
 _"Turning ideas into scalable, AI-powered products — one commit at a time."_
 
